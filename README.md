@@ -10,3 +10,5 @@ cokolwiek aby zmodyfikować
 ?????
 
 Coś zmieniamy aby się zmieniło
+
+I następuje kolejna modyfikacja
