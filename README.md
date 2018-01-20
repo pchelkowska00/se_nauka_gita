@@ -8,3 +8,5 @@ tej kuwety
 cokolwiek aby zmodyfikować
 
 ?????
+
+Coś zmieniamy aby się zmieniło
